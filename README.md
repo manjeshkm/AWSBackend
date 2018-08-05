@@ -1,2 +1,0 @@
-# AWSBackend
-Manalytics-AWS-war
